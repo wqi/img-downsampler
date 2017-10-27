@@ -1,5 +1,5 @@
 # img-downsampler
-Simple utility written in Python to automatically downsample images at different scales (currently 2x, 3x, and 4x) using OpenCV's implementation of bicubic interpolation. This utility can be especially useful in generating training and testing data sets for super-resolution tasks.
+Simple utility written in Python to automatically apply Gaussian blur and downsample images at different scales (currently 2x, 3x, and 4x) using OpenCV's implementation of bicubic interpolation. This utility can be especially useful in generating training and testing data sets for super-resolution tasks.
 
 ## Requirements
 * Python 3
